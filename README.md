@@ -1,4 +1,6 @@
 ## Hi there 👋
+Check out my awesome ergonomic split [keyboard](https://github.com/AJGamma/sheriff-keyboard) 
+
 
 <!--
 **AJGamma/AJGamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
